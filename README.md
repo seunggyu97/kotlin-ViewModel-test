@@ -28,7 +28,7 @@ VVM의 ViewModel을 구현할 때 AAC ViewModel을 사용해서 구현하는 것
 
 반면에 ViewModel Scope는 Finished 될 때 까지 유지된다.
 
-데이터를 ViewModel에 담으면 화회전이 일어나도 데이터가 유실되지 않는다.
+데이터를 ViewModel에 담으면 화면회전이 일어나도 데이터가 유실되지 않는다.
 
 # 라이브 데이터 활용한 단순한 +- 계산기
 
